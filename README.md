@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img align="center" alt="Coding" width="290" src="ef2db0885d94fd149a4b7914923bb2a3.gif" style="max-width: 100%; height: auto;" />
+  <img align="center" alt="Coding" width="290" src="https://dribbble.com/shots/3587000-Coding" style="max-width: 100%; height: auto;" />
 </div>
 
 - 🔭  I’m currently Working on **Web Apps**
