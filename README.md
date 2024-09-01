@@ -30,4 +30,4 @@ I am a Student and Full Stack Developer <img src="https://media.giphy.com/media/
 
 - :zap: In my free time, I build projects and spend time with my family.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chang-oh/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chang-oh/)
