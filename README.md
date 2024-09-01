@@ -5,10 +5,10 @@
 </p>
 
 <div align="center">
-  <img align="center" alt="Coding" width="290" src="https://user-images.githubusercontent.com/123060177/227797198-82940c2a-507a-4bd9-a46a-62b2eb02d7cf.gif" style="max-width: 100%; height: auto;" />
+  <img align="center" alt="Coding" width="290" src="ef2db0885d94fd149a4b7914923bb2a3.gif" style="max-width: 100%; height: auto;" />
 </div>
 
-- 🔭  I’m currently Working on **Web apps**
+- 🔭  I’m currently Working on **Web Apps**
 - 🌱 I’m currently learning **AI Development**
 - 📫 How to reach me **https://www.linkedin.com/in/chang-oh/**
 - 📄 Know about my experiences **https://www.chang-oh.com/**
