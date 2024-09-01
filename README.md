@@ -10,8 +10,8 @@
 
 - 🔭  I’m currently Working on **Web apps**
 - 🌱 I’m currently learning **AI Development**
-- 📫 How to reach me **ahk@alihamzakamboh.com**
-- 📄 Know about my experiences **https://alihamzakamboh.com**
+- 📫 How to reach me **https://www.linkedin.com/in/chang-oh/**
+- 📄 Know about my experiences **https://www.chang-oh.com/**
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chang-oh) 
