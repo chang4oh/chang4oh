@@ -5,8 +5,9 @@
 </p>
 
 <div align="center">
-  <img align="center" alt="Coding" width="290" src="https://dribbble.com/shots/3587000-Coding" style="max-width: 100%; height: auto;" />
+  <img align="center" alt="Coding" width="290" src="343cb53c87e313181d99248d3071bc77.gif" style="max-width: 100%; height: auto; pointer-events: none;" />
 </div>
+
 
 - 🔭  I’m currently Working on **Web Apps**
 - 🌱 I’m currently learning **AI Development**
