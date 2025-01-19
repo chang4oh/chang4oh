@@ -9,8 +9,10 @@
 </div>
 
 
-- 🔭  I’m currently Working on **Web Apps**
-- 🌱 I’m currently learning **AI Development**
+- 🔭  I’m currently Working on **AI Development**
+- <!-- This is commented out.
+- - 🌱 I’m currently learning **AI Development**-->
+
 - 📫 How to reach me **https://www.linkedin.com/in/chang-oh/**
 - 📄 Know about my experiences **https://www.chang-oh.com/**
   
