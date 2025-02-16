@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Chang </h1>
- 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=chang4oh&label=Profile%20views&color=0e75b6&style=flat" alt="Chang" /> 
+<h1 align="center">Hi 👋, I'm Chang</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chang4oh&label=Profile%20views&color=0e75b6&style=flat" alt="Chang's Profile Views" />
 </p>
 
 <div align="center">
-  <img align="center" alt="Coding" width="290" src="343cb53c87e313181d99248d3071bc77.gif" style="max-width: 100%; height: auto; pointer-events: none;" />
+  <img align="center" alt="Coding" width="350" src="343cb53c87e313181d99248d3071bc77.gif" style="max-width: 100%; height: auto; pointer-events: none;" />
 </div>
 
+---
 
-- 🔭  I’m currently Working on **DSA**
-- 📫 How to reach me **https://www.linkedin.com/in/chang-oh/**
-- 📄 Know about my experiences **https://www.chang-oh.com/**
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chang-oh/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/token1q) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Chang-Oh) 
+### 🚀 About Me  
+- 🔭 I’m currently working on **Data Structures & Algorithms (DSA)**  
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/chang-oh/)**  
+- 🌐 Learn more about my experience at **[chang-oh.com](https://www.chang-oh.com/)**  
 
-# 💻 Tech Stack
+---
+
+# 💻 Tech Stack  
+
 
 ## Programming Languages & Frameworks  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
