@@ -10,8 +10,7 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **Data Structures & Algorithms (DSA)**  
+### 🚀 About Me   
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/chang-oh/)**  
 - 🌐 Learn more about my experience at **[chang-oh.com](https://www.chang-oh.com/)**  
 
