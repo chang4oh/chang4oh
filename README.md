@@ -17,9 +17,9 @@
 
 # 💻 Tech Stack  
 
-HTML, CSS, JS, Node.js, Express.js, JQuery, 
+HTML, CSS, JS, JQuery, Node.js, Express.js, 
 axios, PostGreSQL, PostMan, Python, DOM,
-BootStrap, Restful, MongoDB, React JS, and AI ML
+BootStrap, Rest API, React JS, passport, session
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chang4oh&theme=dark&hide_border=false)<br/>
