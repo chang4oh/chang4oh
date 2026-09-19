@@ -12,5 +12,5 @@
 
 ### 🚀 About Me   
 - 📫 Reach me on  **[LinkedIn](https://www.linkedin.com/in/chang-oh/)**  
-- 🌐 Portfolio    **[chang-oh.com](https://www.changoh.com/)**  
+- 🌐 Portfolio    **[changoh.com](https://www.changoh.com/)**  
 ---
